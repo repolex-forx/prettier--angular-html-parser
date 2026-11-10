@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/prettier/angular-html-parser/commit/0b9e1364456375554a28547c094e31afbcdf06ce",
       "git:hexsha": "0b9e1364456375554a28547c094e31afbcdf06ce",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T05:36:07.998157+00:00"
     },
     {
       "@id": "https://repolex.ai/r/prettier/angular-html-parser/commit/8062f7de9eb671b527b5eceba5a8a63be8054a44",
