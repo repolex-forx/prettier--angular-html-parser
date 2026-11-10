@@ -1,0 +1,11 @@
+{
+  "org": "prettier",
+  "repo": "angular-html-parser",
+  "versions": [
+    {
+      "commit": "0b9e1364456375554a28547c094e31afbcdf06ce",
+      "tag": "",
+      "parsed_at": "2026-11-10T05:36:07.998841+00:00"
+    }
+  ]
+}
